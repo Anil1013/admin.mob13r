@@ -1,6 +1,6 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import TableView from './components/TableView';
+import Navbar from './Navbar';
+import TableView from './TableView';
 
 export default function App() {
   return (
